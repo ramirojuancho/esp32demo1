@@ -15,8 +15,9 @@
 # Precompiled Headers
 *.gch
 *.pch
+*.o
 
-# Libraries
+# Librariesde codigo
 *.lib
 *.a
 *.la
