@@ -64,6 +64,7 @@ Makefile
 
 # ESP files 
 build/
+esp-idf-lib/
 sdkconfig
 sdkconfig.old
 sdkconfig.ci
