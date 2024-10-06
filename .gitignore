@@ -15,7 +15,10 @@
 # Precompiled Headers
 *.gch
 *.pch
-*.o
+
+
+#Archivos de Mac de Ernesto
+*.DS_Store
 
 # Librariesde codigo
 *.lib
